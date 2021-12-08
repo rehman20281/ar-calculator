@@ -1,0 +1,19 @@
+{
+    "name": "ar/calculator",
+    "description": "This is package for simple calculator",
+    "type": "laravel",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ar\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AR",
+            "email": "abdul.rehman@renegadefurniture.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
